@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 备份文件
+*.bak_bench
+
+# 编辑器
+.vscode/
+.idea/
+
+# 日志
+*.log
+
+# 大文件 / 数据 / 输出（按需调整）
+*.tar.gz
+*.npz
+*.csv
+*.png
+data/
+pretrain/
+uniport_fasta/
+hypseek_newdata/
+dump_lg*/
+save_root/
